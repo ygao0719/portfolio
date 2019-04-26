@@ -1,5 +1,6 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+/* @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600"); */
+@import url("https://fonts.googleapis.com/css?family=Karla:400,700|Martel:400,700");
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -34,16 +35,16 @@ footer, header, hgroup, menu, nav, section {
 	}
 
   input, textarea, select {
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Martel', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: rgb(77, 110, 150);
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color:black;
 		line-height: 1.5em;
 	}
 
@@ -53,12 +54,12 @@ footer, header, hgroup, menu, nav, section {
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #333;
+			color: #2B394A;
 		}
 
     strong, b {
       font-weight: 300;
-      color: #666;
+      color: #C5D0DD;
     }
   
     em, i {
@@ -77,7 +78,7 @@ footer, header, hgroup, menu, nav, section {
     }
   
       a:hover {
-        color: #E27689;
+        color: #FDA5A4;
         border-bottom-color: rgba(255, 255, 255, 0);
       }
   

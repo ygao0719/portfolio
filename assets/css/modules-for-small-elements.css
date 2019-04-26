@@ -471,7 +471,7 @@ button,
   color: #fff !important;
   text-decoration: none;
   padding: 0.75em 2.5em 0.75em 2.5em;
-  background-color: #8ebebc;
+  background-color: blueviolet;
   border: 0;
   cursor: pointer;
   background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -489,7 +489,7 @@ button,
   input[type="reset"]:hover,
   button:hover,
   .button:hover {
-    background-color: #9ececc;
+    background-color: #4c0bb6;
   }
 
   input[type="button"]:active,
@@ -497,7 +497,7 @@ button,
   input[type="reset"]:active,
   button:active,
   .button:active {
-    background-color: #7eaeac;
+    background-color: #3b1692;
   }
 
 /* Item */
@@ -672,13 +672,13 @@ button,
         }
 
       #nav ul li a.active {
-        background: rgba(0, 0, 0, 0.15);
+        background: rgba(143, 114, 177, 0.15);
         box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
-        color: #fff;
+        color: rgba(204, 114, 114, 0.76);
       }
 
         #nav ul li a.active span:before {
-          color: #e27689;
+          color:blueviolet;
         }
 
 /* Footer */
