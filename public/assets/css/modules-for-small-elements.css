@@ -763,7 +763,7 @@ button,
       z-index: -1;
      }
     #main > section.one {
-      background-color: #81918E;
+      background-color: rgb(235, 241, 240);
       position: relative;
       z-index: -2;
     }
