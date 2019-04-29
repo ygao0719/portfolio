@@ -1,13 +1,13 @@
 
-Number and name of feature: ________________________________
+Number and name of feature: add functionality__
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: _one hour
 
-Start time: _____
+Start time: _900
 
-Finish time: _____
+Finish time: 1100
 
-Actual time needed to complete: _____
+Actual time needed to complete: _two hours
 
 
 
